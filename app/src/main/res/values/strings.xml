@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Dagger Hilt Dependency Injection</string>
+    <string name="my_another_string">This is another string</string>
+</resources>
